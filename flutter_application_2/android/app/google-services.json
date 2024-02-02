@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "832283360046",
+    "project_id": "mathersh-2fcd9",
+    "storage_bucket": "mathersh-2fcd9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:832283360046:android:f857833006e17bc20898bf",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxZwfLe-hCe3EMKJv2Shz3ww9rQ6uYHgs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
